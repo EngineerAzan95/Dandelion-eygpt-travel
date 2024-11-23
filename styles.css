@@ -20,3 +20,6 @@ body{
     text-align: left;
     margin-top:-15px;
 }
+.bigbrother{
+    display: flex;
+}
