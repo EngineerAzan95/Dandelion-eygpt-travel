@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent{
+    border:2px solid black;
+    height:500px;
+    width:30%;
+    margin-top: 30px;
+}
+.father{
+    text-align: right;
+}
+.mother{
+    text-align: left;
+    margin-top:-15px;
+}
